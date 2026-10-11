@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.db
+.env
+
+# Generated output (keep the folder, ignore the PDFs)
+generated_certificates/*
+!generated_certificates/.gitkeep
